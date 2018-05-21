@@ -1,0 +1,19 @@
+{
+  "name": "apache-log-notifier",
+  "version": "1.0.0",
+  "description": "Apache log analizer and notifiy bad request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisNeighbur/apache-log-notifier.git"
+  },
+  "author": "@LuisNeighbur",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LuisNeighbur/apache-log-notifier/issues"
+  },
+  "homepage": "https://github.com/LuisNeighbur/apache-log-notifier#readme"
+}

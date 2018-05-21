@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/LuisNeighbur/apache-log-notifier/issues"
   },
-  "homepage": "https://github.com/LuisNeighbur/apache-log-notifier#readme"
+  "homepage": "https://github.com/LuisNeighbur/apache-log-notifier#readme",
+  "dependencies": {
+    "alpine": "^0.2.1",
+    "byline": "^5.0.0",
+    "node-watch": "^0.5.8"
+  }
 }

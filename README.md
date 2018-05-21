@@ -1,2 +1,2 @@
 # apache-log-notifier
- Apacherlog  analizer and notifiy bad request
+Apache log  analizer and notifiy bad request
